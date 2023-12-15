@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Spawntrigger
   - Cones
+  - Coin
   layers:
   - Default
   - TransparentFX
