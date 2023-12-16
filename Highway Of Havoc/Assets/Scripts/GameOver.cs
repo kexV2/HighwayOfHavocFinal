@@ -12,7 +12,7 @@ public class GameOver : MonoBehaviour
             Debug.Log("Collided with Cones");
 
             // Game over scenario: Load the "Menu" scene
-            SceneManager.LoadScene("MainMenu");
+            SceneManager.LoadScene("ReturnMenu");
         }
     }
 }
