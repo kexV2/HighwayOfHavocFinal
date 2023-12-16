@@ -23,7 +23,7 @@ public class CoinCollection : MonoBehaviour
             if (Coin == maxCoinsInCurrentLevel)
             {
                 // Load the CompletedMenu scene
-                SceneManager.LoadScene("CompletedMenu"); // Replace "CompletedMenu" with your actual scene name
+                SceneManager.LoadScene("CompleteMenu"); // Replace "CompletedMenu" with your actual scene name
             }
         }
     }
