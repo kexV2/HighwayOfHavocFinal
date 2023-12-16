@@ -206,7 +206,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1994497881}
         m_TargetAssemblyTypeName: 
         m_MethodName: 
         m_Mode: 1
@@ -838,6 +838,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1fe03667d6a1dd1448b3f117f9d93422, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  totalGasCans: 5
 --- !u!1 &2031647442
 GameObject:
   m_ObjectHideFlags: 0

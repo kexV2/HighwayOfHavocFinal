@@ -5546,6 +5546,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37a84515b30ae7f408cb1037ef2971c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  maxCoinsInCurrentLevel: 9
   Score: {fileID: 1116620424}
 --- !u!114 &982485999
 MonoBehaviour:
