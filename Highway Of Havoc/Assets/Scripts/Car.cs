@@ -5,7 +5,7 @@ using UnityEngine;
 public class Car : MonoBehaviour
 {
     private AudioSource carAudioSource;
-    public ParticleSystem smokeParticle;
+   
 
     // Use this for initialization
     void Start()

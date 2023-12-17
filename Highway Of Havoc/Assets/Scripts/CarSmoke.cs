@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class CarSmoke : MonoBehaviour
 {
-    private ParticleSystem smokeParticle;
+    public ParticleSystem smokeParticle;
 
-    // Use this for initialization
+    
     void Start()
     {
         // Get the ParticleSystem component attached to the car
@@ -16,7 +16,6 @@ public class CarSmoke : MonoBehaviour
         smokeParticle.Stop();
     }
 
-    // Update is called once per frame
     void Update()
     {
         // Check if the car is moving forward
