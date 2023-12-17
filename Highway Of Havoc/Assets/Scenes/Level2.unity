@@ -5481,18 +5481,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6558294586299371203, guid: c24eb8b945e533543b57c77b18c13447, type: 3}
   m_PrefabInstance: {fileID: 1213895590}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &472334400
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 472334395}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 165074fa5fe712d48a579e9deaa4bd48, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &472334402
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17504,9 +17492,6 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 5784995223130969209, guid: c24eb8b945e533543b57c77b18c13447, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 472334400}
-    - targetCorrespondingSourceObject: {fileID: 5784995223130969209, guid: c24eb8b945e533543b57c77b18c13447, type: 3}
-      insertIndex: -1
       addedObject: {fileID: 472334402}
   m_SourcePrefab: {fileID: 100100000, guid: c24eb8b945e533543b57c77b18c13447, type: 3}
 --- !u!1 &1219758708
@@ -24566,7 +24551,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1885594466}
-  - component: {fileID: 1885594467}
   m_Layer: 0
   m_Name: Roads
   m_TagString: Untagged
@@ -24592,18 +24576,6 @@ Transform:
   - {fileID: 792749408}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1885594467
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1885594465}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d5ec6157f09a5b849add7f82ab426e2f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1892302154
 GameObject:
   m_ObjectHideFlags: 0

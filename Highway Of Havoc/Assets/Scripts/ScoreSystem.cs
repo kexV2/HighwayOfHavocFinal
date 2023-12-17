@@ -14,7 +14,6 @@ public class ScoreSystem : MonoBehaviour
         if (other.CompareTag("GasCan"))
         {
             collect.Play();
-            Score += 50;
             scoreText.GetComponent<Text>().text = "SCORE: " + Score;
             Destroy(other.gameObject); // Destroy the gas can instead of the current object.
         }
