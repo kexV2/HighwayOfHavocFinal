@@ -1,0 +1,36 @@
+Contribution Statement 
+
+B00150459 Reece Obrien  
+
+B00156324  Dylan Keogh 
+
+ 
+
+ 
+
+Dylan -  
+
+Created Level easy and hard scene along with GitHub link  
+
+Created properties for player, the obstacles and gas tank 
+
+Created Scripts – Car, CarSmoke, coinCollection, FollowPlayer, GTNoise, PlayerController, ScoreSystem, SpawnManager 
+
+ 
+
+Reece -
+
+Created Scene CompleteMenu, MainMenu and ReturnMenu, imported image for each 
+
+Created functioning buttons required for each part of game with colors matching 
+
+Created Scripts -  CompletedMenu, GameOver, SceneCTRL, ReturnButton that connects to each scene 
+
+
+Sources
+https://assetstore.unity.com/packages/vfx/particles/simple-fx-cartoon-particles-67834
+https://assetstore.unity.com/packages/3d/props/pandazole-simple-game-low-poly-pack-210274
+https://assetstore.unity.com/packages/3d/vehicles/land/simple-cars-pack-97669
+https://assetstore.unity.com/packages/audio/music/electronic/free-music-bundle-by-neocrey-92835
+https://assetstore.unity.com/packages/3d/environments/urban/city-package-107224
+https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
